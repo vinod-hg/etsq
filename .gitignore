@@ -13,3 +13,12 @@ erl_crash.dump
 .rebar
 logs
 _build
+.settings
+.project
+c_src/.cproject
+c_src/.project
+deps
+c_src/lib
+c_src/*.o
+priv/lib
+priv/*.o
