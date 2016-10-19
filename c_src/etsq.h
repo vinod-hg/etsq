@@ -9,6 +9,7 @@
 #define ETSQ_H_
 
 #include <iostream>       // std::cin, std::cout
+#include <cstring>
 #include <map>          // std::map
 #include <queue>          // std::queue
 #include "erl_nif.h"
